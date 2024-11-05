@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oxatoini.github.io/SAq/sitemap_index.txt
+Sitemap: https://oxatoini.github.io/SMk/sitemap_index.txt
+Sitemap: https://oxatoini.github.io/ZBX/sitemap_index.txt
+Sitemap: https://oxatoini.github.io/pOl/sitemap_index.txt
